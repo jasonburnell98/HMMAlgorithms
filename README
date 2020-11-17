@@ -1,0 +1,11 @@
+To compile this program, change directory to this project folder in terminal and type:
+python3 showOutput.py fasta.txt
+
+To run any other fasta file just place it inside the project folder 
+and replace "fasta.txt" with the name of the file as the second command argument. 
+
+I have attached a screenshot of my output when running this program using the fasta.txt
+file found in this folder.
+
+As a side note, the output will look better if this window is run in full screen. 
+When minimizing my console window, it got a little confusing to see the data.
